@@ -1,4 +1,4 @@
-# seminaris
+# Seminaris UB
 
 - 2019-01-10: [Álvaro Parafita](https://github.com/aparafita/flow): Normalizing Flows 
   - Normalizing Flows for Probabilistic Modeling and Inference ([Paper](https://arxiv.org/abs/1912.02762))
