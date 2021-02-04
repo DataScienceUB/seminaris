@@ -1,5 +1,8 @@
 # Seminaris UB
 
+- 2021-01-28: 
+  - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([Paper](https://arxiv.org/abs/1905.11946))
+  - Compositional Embeddings for Multi-Label One-Shot Learning ([Paper](https://arxiv.org/abs/2002.04193))
 - 2020-12-17: [Pere Gilabert](https://github.com/perecasxiru): Introduction to Deep Q-Learning ([Repo](https://github.com/perecasxiru/reinforcement_learning))
 - 2020-12-03: [Guillem Pascual](https://github.com/gpascualg): Classification confidence via 2D embeddings ([PowerPoint](https://github.com/DataScienceUB/seminaris/blob/main/2020-12-03/Classification%20confidence%20via%202D%20embeddings.pdf))
 - 2020-11-26: [Álvaro Parafita](https://github.com/aparafita): Gender Wage Gap in Spain ([PowerPoint](https://github.com/DataScienceUB/seminaris/blob/main/2020-11-26/Gender%20Gap%20Case%20Study.pdf))
