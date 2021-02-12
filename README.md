@@ -1,6 +1,6 @@
 # Seminaris UB
 
-- 2021-02-11: [Pere Gilabert](https://github.com/perecasxiru): EfficientNet ([PowerPoint](https://github.com/DataScienceUB/seminaris/blob/main/2021-02-11/EfficientNet.pptx))
+- 2021-02-11: [Pere Gilabert](https://github.com/perecasxiru): EfficientNet ([PowerPoint](https://github.com/DataScienceUB/seminaris/blob/main/2021-02-11/EfficientNet.pdf))
 - 2021-01-28: 
   - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([Paper](https://arxiv.org/abs/1905.11946))
   - Compositional Embeddings for Multi-Label One-Shot Learning ([Paper](https://arxiv.org/abs/2002.04193))
