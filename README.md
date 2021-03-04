@@ -1,5 +1,6 @@
 # Seminaris UB
 
+- 2021-03-04: [Paula Gomez](https://github.com/paulagd): Graph Convolutional Embeddings ([PowerPoint](https://docs.google.com/presentation/d/1kxnz7hOSkCx13jZk4698PEfirDLvD4OkD-xlWWBybtU/edit#slide=id.gbbb4516e11_0_0))
 - 2021-02-11: [Pere Gilabert](https://github.com/perecasxiru): EfficientNet ([PowerPoint](https://github.com/DataScienceUB/seminaris/blob/main/2021-02-11/EfficientNet.pdf))
 - 2021-01-28: 
   - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([Paper](https://arxiv.org/abs/1905.11946))
